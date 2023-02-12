@@ -22,6 +22,48 @@
     height: 200px;
 }
 
+.Section4 .Sign-Up {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    margin: auto;
+    width: 80%;
+    height: 50%;
+    border-radius: 15px;
+}
+
+.Section4 .Sign-Up .Inner-Sign-Up{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+    margin-left: 5%;
+
+}
+
+.Section4 .Sign-Up .Inner-Sign-Up h4{
+    color: white;
+    margin-bottom: -3%;
+    margin-top: 7%;
+}
+
+.Section4 .Sign-Up .Inner-Sign-Up p{
+    color: white;
+
+}
+
+
+.Section4 .Sign-Up button{
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 15%;
+    height: 35%;
+    align-self: center;
+    border-radius: 5px;
+    border-color: white;
+    background-color: #3882F6;
+    color: white;
+}
+
 .footer {
     display: flex;
     height: 70px;
