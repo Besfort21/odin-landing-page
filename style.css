@@ -1,0 +1,39 @@
+.Section1 {
+    display: flex;
+    background-color: #1F2937;
+    height: 200px;
+}
+
+.Section2 {
+    display: flex;
+    background-color: white ;
+    height: 200px;
+}
+
+.Section3 {
+    display: flex;
+    background-color: #E5E7EB;
+    height: 200px;
+}
+
+.Section4 {
+    display: flex;
+    background-color: white;
+    height: 200px;
+}
+
+.footer {
+    display: flex;
+    height: 70px;
+    background-color: #1F2937;
+    justify-content: center;
+    color: #E5E7EB;
+}
+
+.Section1 .Nav h4 {
+    display: inline;
+}
+
+.Section1 .Nav{
+   justify-items: center;
+}
